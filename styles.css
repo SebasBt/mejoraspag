@@ -10,17 +10,15 @@ body {
     display: block; /* Esto asegura que los márgenes automáticos funcionen correctamente */
 }
 
-.link-button {
+#link-button {
     display: inline-block;
     margin-top: 20px; /* Espacio entre el párrafo y el botón */
 }
 
-.link-button {
+#link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    border: 1px solid rgb(26, 86, 216);
     padding: 5px;
     border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    box-shadow: 2px 3px #085ece;
 }
